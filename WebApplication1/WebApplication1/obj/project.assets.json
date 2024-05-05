@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\interface\\Desktop\\OneDrive-2024-05-01\\Desktop\\Skinet\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\interface\\Desktop\\Skinet\\E-Commerce\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\interface\\Desktop\\OneDrive-2024-05-01\\Desktop\\Skinet\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\interface\\Desktop\\Skinet\\E-Commerce\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\interface\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\interface\\Desktop\\OneDrive-2024-05-01\\Desktop\\Skinet\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\interface\\Desktop\\Skinet\\E-Commerce\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\interface\\AppData\\Roaming\\NuGet\\NuGet.Config",

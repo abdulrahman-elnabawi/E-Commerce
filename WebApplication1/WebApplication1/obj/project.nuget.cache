@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a0mMVaH/XoGb9clt7ATbuxT6RX2e497cPO/7Qu9gDMKr/CbzC6GilgrLcNjKzuWKbxuFaKw1KQsfY/cbXc/G8A==",
+  "dgSpecHash": "I2c5ZC9KhIwGF2HKcQNFXN0L6+93qv4nCy5Cbb0JWTSDE4n414MF7z3+GfSWlKni9rjXwcTCiHFMAFNDyfYjNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\interface\\Desktop\\OneDrive-2024-05-01\\Desktop\\Skinet\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\interface\\Desktop\\Skinet\\E-Commerce\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\interface\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\interface\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
